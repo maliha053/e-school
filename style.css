@@ -1,0 +1,91 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    background-color: rgb(245, 241, 241);
+}
+
+#logo {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+section {
+    margin-bottom: 70px;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+#Home {
+    background-color: white;
+    padding: 10px 40px 20px 40px;
+    box-shadow: 10px 10px 40px lightgrey
+}
+
+h6 {
+    color: #d92252;
+}
+
+span {
+    color: #d6404a;
+}
+
+.card {
+    box-shadow: 5px 5px 30px lightgrey;
+    border: none;
+    border-radius: 20px;
+}
+
+.card-footer {
+    border: none;
+}
+
+button {
+    background-color: #ad363e;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+}
+
+.col-3 div {
+    box-shadow: 2px 2px 30px lightgrey;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: white;
+}
+
+#reviews {
+    background-color: white;
+    padding: 50px;
+    box-shadow: 10px 10px 40px lightgrey
+}
+
+#last-part {
+    background-color: #1a2e35;
+    color: white;
+    padding: 40px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
+
+small {
+    font-family: cursive;
+    color: #6b6b6c;
+}
+
+#find-us {
+    background-color: white;
+    padding: 0px 50px;
+    padding: 0px 40px 20px 40px;
+    box-shadow: 10px 10px 40px lightgrey
+}
